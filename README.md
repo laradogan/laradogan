@@ -15,8 +15,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laradogan&show_icons=true&locale=en" alt="laradogan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laradogan&" alt="laradogan" /></p>
-
-[![laradogan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laradogan&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=laradogan&show_icons=true&locale=en&card_width=500" alt="laradogan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laradogan&card_width=500" alt="laradogan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laradogan&theme=transparent&bg_color=ffffff&card_width=500" alt="laradogan" />
+</div>
