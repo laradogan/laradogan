@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/laradogan/laradogan/blob/main/dork-dorkcoin.gif" width="300" />
+</p>
+  
 <h1 align="center">Hi 👋, I'm Lara Dogan</h1>
 <h3 align="center">ANALYZE, OPTIMIZE, REPEAT 🚀</h3>
 
