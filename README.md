@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/laradogan/laradogan/blob/main/dork-dorkcoin.gif" width="300" />
+  <img src="https://github.com/laradogan/laradogan/blob/main/dork-dorkcoin.gif" width="400" />
 </p>
   
 <h1 align="center">Hi 👋, I'm Lara Dogan</h1>
